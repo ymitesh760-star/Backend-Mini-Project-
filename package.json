@@ -1,0 +1,22 @@
+{
+  "name": "q4-mongo-employees",
+  "version": "1.0.0",
+  "description": "MongoDB employee API using Express and Mongoose",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "mongodb",
+    "mongoose",
+    "express",
+    "api"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.7.3"
+  }
+}
